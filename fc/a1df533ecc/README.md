@@ -7,4 +7,14 @@
 --------------------------------------
       Study English: Vocabulary
 --------------------------------------
+
+
+======================================
+            REFERENCES
+  ----------------------------------
+
+# Common Core: Grade 5
+# https://www.vocabulary.com/lists/6z3umhtf/grade-5
+
+
 ```

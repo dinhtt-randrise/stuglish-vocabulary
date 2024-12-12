@@ -13,8 +13,13 @@
             REFERENCES
   ----------------------------------
 
+# Common Core - Vocabulary Frequently Found on Assessments
+# https://www.vocabulary.com/lists/dgqzvk2y/common-core
+
 # Common Core: Grade 5
 # https://www.vocabulary.com/lists/6z3umhtf/grade-5
 
+# Common Core: Grade 5 - List 1
+# https://www.vocabulary.com/lists/8497652
 
 ```
